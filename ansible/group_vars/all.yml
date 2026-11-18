@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/mishalyamets1/devops-ci-app"
+app_tag: "55dde6058f5775d1ba18abc22aa3103cf11bf157"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
